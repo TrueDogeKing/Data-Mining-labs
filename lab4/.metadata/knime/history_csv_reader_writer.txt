@@ -1,0 +1,3 @@
+C:\Users\User\Documents\Data-Mining-labs\lab3\dictchurn.txt
+C:\Users\User\Documents\Data-Mining-labs\lab3\churn.txt
+C:\Users\User\Documents\Data-Mining-labs\lab3\churn (1).txt
